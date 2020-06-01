@@ -1,0 +1,8 @@
+default: -p junit -p chrome_headless -p html
+html: --format html --out=features.html 
+dot: --format progress
+bdd: --format pretty 
+json: --format json -o "report.json"
+junit: --format pretty -f junit -o report.xml
+chrome_headless: BROWSER=chrome_headless
+chrome: BROWSER=chrome

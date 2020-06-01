@@ -1,0 +1,18 @@
+CREDENCIAL:
+  Usuario: jcacovichi@gmail.com
+  senha: 342477
+
+Login_invalido:
+  Usuario: jcacovi@gmail.com
+  senha: 3424
+
+Cadastro:
+  email: jrcacovichirocha@gmail.com
+  nome: Sophia
+  sobrenome: cacovichi
+  senha: 342477
+  endereco: Rua Canada
+  cidade: Belo Horizonte 
+  cep: 12310
+  tel_cel: 95250011
+  referencia: teste_ame
