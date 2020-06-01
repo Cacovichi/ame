@@ -9,7 +9,7 @@ Funcionalidade: Login
 Contexto: Login 
     Dado que estou no site
     Quando clico em "assinar em"
-@a
+    
 Cenario: Login com sucesso 
     Quando realizo o login 
     Então valido o login com sucesso "Welcome to your account. Here you can manage all of your personal information and orders."
