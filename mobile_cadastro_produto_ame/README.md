@@ -1,9 +1,9 @@
-#Introdução
+Introdução
 Desafio técnico - Projeto Mobile usando APKs no link abaixo: https://drive.google.com/drive/folders/12URcclJ5RmyLE_k5KSsbdbD96r_EyA07 Contendo pelos menos 3 cenários de teste.
 
 O projeto foi construído com o framework appium com uma linguagem de programação Ruby
 
-#Começando
+Começando
 Processo para instalar o ambiente de teste. 
 
 1 - Instale o Homebrew Homebrew é um gerenciador de pacotes para o MAC OS, que possibilita a instalação de programas bibliotecas e de funções tudo via terminal. 
