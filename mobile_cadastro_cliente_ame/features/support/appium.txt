@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "Motorola Moto G 4"
+app = "C:\Users\jrcrocha\Documents\automacao\Hsl.Adma.Qa\features\support\app.debug.apk"
