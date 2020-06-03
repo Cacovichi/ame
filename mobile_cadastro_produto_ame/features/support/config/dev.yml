@@ -1,0 +1,9 @@
+Cadastro:
+  codigo: 0002
+  descricao: "Bola"
+  unidade: 1
+  quantidade: 5
+  valor_unitario: 10
+  nova_quant: 5
+  saida: 2
+  motivo_venda: "venda"

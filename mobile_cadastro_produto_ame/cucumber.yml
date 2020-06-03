@@ -1,0 +1,7 @@
+default: -p dev #-p html -p dev -p dev
+
+#html: --no-source --color --format pretty --format html --out=logs/reports/relatorio.html
+#json: -f json -o logs/reports/relatorio.json
+
+dev: ENVIRONMENT=dev 
+hml: ENVIRONMENT=hml

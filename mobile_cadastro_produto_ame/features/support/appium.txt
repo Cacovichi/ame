@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "pixel_2"
+app = "C:\Users\jrcrocha\Documents\pessoal\ame\mobile_cadastro_produto_ame\features\support.app.debug.apk"
